@@ -104,13 +104,21 @@ apps/
 ## 📸 Screenshots
 
 ### 🔑 Login / Role-based Access
-![Login](https://via.placeholder.com/800x400.png?text=Login+Page)
+<img width="1030" height="415" alt="image" src="https://github.com/user-attachments/assets/c5bcd7e9-7c17-4946-a9f0-8afc23e6412a" />
+
 
 ### 📊 Dashboard
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Page)
+<img width="1010" height="931" alt="image" src="https://github.com/user-attachments/assets/570b6079-7c87-4ec2-b6dd-931e5fc9cf9f" />
+
+<img width="900" height="944" alt="image" src="https://github.com/user-attachments/assets/6dd65ab7-007e-438e-a59c-e0270c5ec331" />
+
 
 ### ✅ Approvals
-![Approvals](https://via.placeholder.com/800x400.png?text=Approvals+Page)
+<img width="919" height="356" alt="image" src="https://github.com/user-attachments/assets/45881e4e-afd8-4577-84c9-70f9e8028522" />
+
+<img width="902" height="668" alt="image" src="https://github.com/user-attachments/assets/e751f333-ef73-4fe3-844e-1c7eae132159" />
+
+
 
 ---
 
