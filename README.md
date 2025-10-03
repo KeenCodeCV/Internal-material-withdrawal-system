@@ -120,4 +120,4 @@ apps/
 ---
 
 ## 📜 License
-MIT License © 2025
+Thanakrit Sricharung Walailak University License © 2025
