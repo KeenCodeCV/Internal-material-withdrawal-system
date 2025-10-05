@@ -3,6 +3,8 @@
 ระบบเบิกจ่ายวัสดุภายในองค์กร  
 พัฒนาโดยใช้ **Next.js + Node.js + Express + MySQL + TailwindCSS + SweetAlert2 + Framer Motion**  
 
+## คลิปรีวิวการใช้งาน [https://youtu.be/AHhfh5tchNQ?si=jJMv0kURU53E9595](https://youtu.be/9abvBIVzAis?si=gLR5ZYxYs73YsfVf)
+
 ![Banner](https://img.shields.io/badge/Next.js-14-black?logo=next.js) 
 ![Node.js](https://img.shields.io/badge/Node.js-22-green?logo=node.js) 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql) 
